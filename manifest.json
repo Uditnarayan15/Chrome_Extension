@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Tracker",
+    "action": {
+        "default_popup": "Chromeextension.html",
+        "default_icon": "css-logo.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
